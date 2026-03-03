@@ -1,0 +1,148 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "abc123def456"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.8"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "django": {
+            "hashes": [
+                "sha256:a200a0b561697a5a9aab38a4928817421e3a51b38ed488dc29a7e9f99fbd78b1"
+            ],
+            "index": "pypi",
+            "version": "==2.2.0"
+        },
+        "flask": {
+            "hashes": [
+                "sha256:2271c0070dbcb5275fad4a82e29f23ab92682dc45f9dfbc22c02ba9b9322ce48"
+            ],
+            "index": "pypi",
+            "version": "==0.12.2"
+        },
+        "pyyaml": {
+            "hashes": [
+                "sha256:1adecc22f88d38052fb787d959f003811ca858b799590a5eaa70e63dca50308c"
+            ],
+            "index": "pypi",
+            "version": "==5.1"
+        },
+        "pillow": {
+            "hashes": [
+                "sha256:0ae24a547e8f7f67c0813bc38c7a8b478a3aebc7a0c0ba6c4f1d25ee47c7c2d8"
+            ],
+            "index": "pypi",
+            "version": "==6.2.0"
+        },
+        "urllib3": {
+            "hashes": [
+                "sha256:61bf29bc5aef5d89d73aa8b12a2e49b2092cb4d7e52c2e3b4c4d42d8e4b6e6a6"
+            ],
+            "index": "pypi",
+            "version": "==1.24.1"
+        },
+        "requests": {
+            "hashes": [
+                "sha256:99dcfdaaeb17caf6e526f32b6a7b780461512ab3f1d992187801694cba42770c"
+            ],
+            "index": "pypi",
+            "version": "==2.20.0"
+        },
+        "jinja2": {
+            "hashes": [
+                "sha256:74c935a1b8bb9a3947c50a54766a969d4846290e1e788ea44c1392163723c3bd"
+            ],
+            "index": "pypi",
+            "version": "==2.10"
+        },
+        "werkzeug": {
+            "hashes": [
+                "sha256:97660b282aa7e29f94f3fe378e5c7162d7ab9d601a8dbb3970b7f65b1de8d60b"
+            ],
+            "index": "pypi",
+            "version": "==0.15.2"
+        },
+        "cryptography": {
+            "hashes": [
+                "sha256:abc123456789"
+            ],
+            "index": "pypi",
+            "version": "==2.3"
+        },
+        "paramiko": {
+            "hashes": [
+                "sha256:def987654321"
+            ],
+            "index": "pypi",
+            "version": "==2.4.1"
+        },
+        "lxml": {
+            "hashes": [
+                "sha256:123abc456def"
+            ],
+            "index": "pypi",
+            "version": "==4.2.5"
+        },
+        "pycrypto": {
+            "hashes": [
+                "sha256:f2ce1e989b272cfcb677616763e0a2e7ec659effa67a88aa92b3a65528f60a3c"
+            ],
+            "index": "pypi",
+            "version": "==2.6.1"
+        },
+        "sqlalchemy": {
+            "hashes": [
+                "sha256:456def789abc"
+            ],
+            "index": "pypi",
+            "version": "==1.2.0"
+        },
+        "aiohttp": {
+            "hashes": [
+                "sha256:789abc123def"
+            ],
+            "index": "pypi",
+            "version": "==3.5.4"
+        },
+        "bleach": {
+            "hashes": [
+                "sha256:abc789def456"
+            ],
+            "index": "pypi",
+            "version": "==3.1.0"
+        },
+        "numpy": {
+            "hashes": [
+                "sha256:def456abc789"
+            ],
+            "index": "pypi",
+            "version": "==1.16.0"
+        },
+        "setuptools": {
+            "hashes": [
+                "sha256:789def456abc"
+            ],
+            "index": "pypi",
+            "version": "==44.0.0"
+        }
+    },
+    "develop": {
+        "nose": {
+            "hashes": [
+                "sha256:f1bffef9cbc82628f6e7d7b40d7e255aefaa1adb6a1b1d26c69a8b79e6208a98"
+            ],
+            "index": "pypi",
+            "version": "==1.3.7"
+        }
+    }
+}
