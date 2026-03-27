@@ -7,7 +7,7 @@ Flask==0.12.2                 # CVE-2018-1000656: DoS vulnerability
 PyYAML==5.1                   # CVE-2020-1747: Arbitrary code execution
 Pillow==6.2.0                 # Multiple CVEs: buffer overflows, DoS
 urllib3==1.24.1               # CVE-2019-11324: CRLF injection
-requests==2.20.0              # CVE-2018-18074: Session leak
+requests==2.33.0              # CVE-2018-18074: Session leak
 Jinja2==2.10                  # CVE-2019-10906: Sandbox escape
 Werkzeug==0.15.2              # CVE-2019-14806: Debugger PIN bypass
 cryptography==2.3             # Multiple CVEs
